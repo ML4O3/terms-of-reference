@@ -17,9 +17,9 @@ Key objectives of the WG include:
     - fill temporal gaps in the measurement time series at individual station locations by identifying a transfer function
 
 4. Co-ordinate and lead a paper for the TOAR-2 Special Issue.  Describe/assess and provide benchmakrs where appropriate for
-    - ozone forecasting
+    - (surface) ozone forecasting
     - preparation of interpolated/fused dataset that attempt to provide better consistency / accuracy / coverage of atmospheric composition
-    - use of ML methods in atmospheric chemical mdoelling
+    - use of ML methods in atmospheric chemical modelling
   
 1. Liaise with other TOAR-2 WG e.g. statistics and health on issues of mutual interest
 
